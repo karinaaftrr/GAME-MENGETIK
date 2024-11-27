@@ -6,8 +6,8 @@ using namespace std;
 
 const char* levelTeks[] = {
     "ilmu komputer",
-    "anak ilkom keren",
-    "mantap kamu pasti anak mipa yaa",
+    "anak ilmu komputer mantap",
+    "disini anak unila, senggol dong",
     "semangka enak dimakan pakai sendok",
     "udah tidur siang bangun kesiangan lagi",
     "ayo jangan lupa belajar dasar-dasar pemrograman",
