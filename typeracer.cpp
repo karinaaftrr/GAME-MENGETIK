@@ -5,9 +5,9 @@
 using namespace std;
 
 const char* levelTeks[] = {
-    "gebrakan baru",
-    "kak lian ganteng",
-    "laptop ngehang hati galau",
+    "ilmu komputer",
+    "anak ilkom keren",
+    "mantap kamu pasti anak mipa yaa",
     "semangka enak dimakan pakai sendok",
     "udah tidur siang bangun kesiangan lagi",
     "ayo jangan lupa belajar dasar-dasar pemrograman",
