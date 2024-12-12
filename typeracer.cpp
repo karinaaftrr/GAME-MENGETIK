@@ -153,7 +153,6 @@ void tampilkanMenuAwal() {
     }
 }
 
-int tampilkanMenuLevel() {
     int sorot = 0;
     const int baris = 5, kolom = 4;
     const int levelPerHalaman = baris * kolom;
